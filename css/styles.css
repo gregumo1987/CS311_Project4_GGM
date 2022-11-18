@@ -1,0 +1,58 @@
+
+ #title {
+     /* background-color:lightgrey; */
+     padding-left:15px;
+     padding-top:6px;
+}
+
+#credit {
+    font-size:small;
+}
+
+#composer, #mozart, #verdi, #puccini, #wagner, #bizet {
+    padding-top:15px;
+    padding-bottom:10px;
+}
+
+.col-9 {
+    border: 1px solid  lightgrey;
+} 
+
+.col-3 {
+    border-bottom: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    border-top: 1px solid lightgrey;
+}
+
+#txt, .col-4, .col-6 {
+    padding-left:15px;
+    padding-top:15px;
+    padding-right:15px;
+    padding-bottom:15px;
+}
+
+.lines {
+        text-decoration-line: underline;
+        text-decoration-style: double;
+        text-decoration-color: black;
+        padding-top: 15px;
+}
+
+/* .col-3 {
+    background-color: antiquewhite;
+} */
+
+.col-9 {
+    background-color:azure;
+}
+
+#wag, #moz, #puc, #ver, #biz {
+    padding-top:5px;
+}
+
+#ctr {
+    text-align: center;
+    background-color: lightgrey;
+    padding-top:10px;
+    padding-bottom:10px;
+}
